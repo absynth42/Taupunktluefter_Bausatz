@@ -6,7 +6,7 @@ Maker Media GmbH
 # Notizen
 
 * Der eingesetzte ESP32 ist ein ESP32 Devkit V1, mit dem exakten Pinout ist dieser unter der GTIN 4250236816104 erhältlich.
-* 
+* Quellcode ist für ESP32 v2.x, kompiliert nicht unter V3.x
 # Taupunktlüfter Bausatz
 
 ![Picture](./Aufmacher.jpg) 
